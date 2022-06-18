@@ -8,9 +8,8 @@ comments: false
 
 ## Hey there, thanks for stopping by
 
-Hi! I am Neeraj Singh, Final year Computer Science Undergraduate. I'm a Java/Python developer and Software Security enthusiast from India. Interested in web exploitation and boot2root, currently playing with Team [DarkArmy](https://ctftime.org/team/26569) holding 4th rank worldwide.
-P.S. I am actively looking for Cyber Security Internships.
+Hi! I am Neeraj Singh, Addicted to pwning Web and Android applications, and also love to build tools. Currently working as a Security Engineer at Honeywell where I mainly do Web/Mobile/IoT PT. In my free time, I play CTF with Team [DarkArmy](https://ctftime.org/team/26569).
 
-You can [report](https://github.com/karma9874/karma9874.github.io/issues/new) if there is an broken link(s) or somethings else.
+You can also [report](https://github.com/karma9874/karma9874.github.io/issues/new) if there is a broken link or something else. Thanks
 
 {% include contact_form.html %}
